@@ -4,7 +4,7 @@ class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, world World!"); 
         System.out.println("Hello, world World!");
-        System.out.println("Hello, world Nikel!");
+        System.out.println("Hello, world Nikelvenu!");
         System.out.println("Hello, world World kahvya p !"); 
     }
 }
