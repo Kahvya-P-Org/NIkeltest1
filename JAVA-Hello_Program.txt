@@ -7,5 +7,6 @@ class HelloWorld {
         System.out.println("Hello, world NikelvenuNikel!");
         System.out.println("Hello, world World kahvya p - what is right everything is wrong this finald infsdflsdinfdslkfds-final!"); 
         System.out.println("Hello, world World kahvya p - what is this happening-final!"); 
+        System.out.println("Hello, this is really cool!");
     }
 }
