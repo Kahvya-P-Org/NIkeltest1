@@ -2,7 +2,11 @@
 
 class HelloWorld {
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("Hello, world World!"); 
         System.out.println("Hello, world World!");
+=======
+        System.out.println("Hello, world World kahvya p !"); 
+>>>>>>> a7ffe634fd783b5ad443020ee2f7f17de7a0baa2
     }
 }
