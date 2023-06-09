@@ -7,10 +7,9 @@ class HelloWorld {
         System.out.println("Hello, world NikelvenuNikel!");
         System.out.println("Hello, world World kahvya p - what is right everything is wrong this finald infddssdfafdsfdsfdssdflsdinfdslkfds-final!"); 
         System.out.println("Hello, world World kahvya p - what is this happening-final!"); 
-<<<<<<< HEAD
 System.out.println("Hello, no need!");
-=======
+        System.out.println("Hello, world World kahvya p - what is right everything is wrong this finald infsdflsdinfdslkfds-final!"); 
+        System.out.println("Hello, world World kahvya p - what is this happening-why is it always wrong final!"); 
         System.out.println("Hello, this is really cool!");
->>>>>>> 3a43d78190eaeb14549a744b2557123a19903688
     }
 }
